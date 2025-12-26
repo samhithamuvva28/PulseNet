@@ -1,0 +1,18 @@
+﻿# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data and artifacts
+Data/
+Model Implementations/**/*.joblib
+
+# OS noise
+.DS_Store
+Thumbs.db

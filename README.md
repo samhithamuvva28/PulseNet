@@ -1,4 +1,4 @@
-# DATA245-PulseNet
+# PulseNet — Problematic Internet Use Predictor
 Problematic Internet Use (PIU) among kids and
 teenagers is a growing problem in today’s digital age, contributing
 to mental health issues like anxiety and sadness. With the tech-
@@ -22,9 +22,6 @@ performance of these models based on metrics such as accuracy,
 precision, and recall, this project will determine the most effective
 approach for predicting problematic internet use.
 
-# PulseNet — Problematic Internet Use Predictor
-
-PulseNet predicts the Severity Impairment Index (SII) for Problematic Internet Use (PIU) in kids and teenagers using actigraphy (accelerometer) signals and tabular assessments from the Healthy Brain Network (HBN). This repo organizes exploration (EDA), processing, model artifacts, and data clearly, and documents the end-to-end preprocessing pipeline and outputs.
 
 ## Repository layout
 

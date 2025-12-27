@@ -1,4 +1,4 @@
-# PulseNet — Problematic Internet Use Predictor
+# PulseNet: Problematic Internet Usage in Children
 Problematic Internet Use (PIU) among kids and
 teenagers is a growing problem in today’s digital age, contributing
 to mental health issues like anxiety and sadness. With the tech-
